@@ -15,11 +15,12 @@ permalink: /
 - ポケモン
   - 好きなわざ：そらをとぶ
 - 音楽鑑賞
-  - 好きなジャンル：ハードロック・メタル
+  - [好きなジャンル：ハードロック・メタル|#僕のイチオシアーティスト]
 
 ## 僕のイチオシアーティスト
  
- [Periphery](https://open.spotify.com/intl-ja/track/6f8WPDb2IoYSKu5LgHcyrw?si=ccdf9ee559b24f98)
+ - [Periphery](https://open.spotify.com/intl-ja/track/6f8WPDb2IoYSKu5LgHcyrw?si=ccdf9ee559b24f98)
+ - [BANDMAID]
 
 ---
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
