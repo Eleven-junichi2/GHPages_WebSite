@@ -23,4 +23,4 @@ permalink: /
  - BANDMAID
 
 ---
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/GHPages_WebSite/assets/images/pygamestg_fighter1_for_sns.png)
