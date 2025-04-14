@@ -5,8 +5,7 @@ permalink: /
 ---
 
 
-こんばんはaaaaaa
-
+こんばんは
 
 
 ---
